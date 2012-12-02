@@ -11,7 +11,7 @@
 # FOR A PARTICULAR PURPOSE.
 #
 ##############################################################################
-name, version = 'zc.botokeyring', '0'
+name, version = 'zc.botokeyring', '0.1.0'
 
 install_requires = ['setuptools', 'boto', 'keyring']
 extras_require = dict(test=['zope.testing', 'manuel', 'mock'])
